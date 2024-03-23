@@ -51,7 +51,7 @@ header{
 }
 
 #news{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/newhome1.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./newhome1.jpg);
     height: 900px;
     background-size: cover;
     background-position: center;
@@ -126,7 +126,7 @@ header{
 }
 
 #check{
-    /*background-image: url(../images/home2.jpg);*/
+    /*background-image: url(./home2.jpg);*/
     background-size: cover;
     background-color:darkslategray;
     height: 530px;
@@ -277,7 +277,7 @@ span{
 
 /* ここからserviceページ*/
 #service{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../images/1-service.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(./1-service.jpg);
     height: 400px;
   
     background-size:cover;
@@ -648,7 +648,7 @@ span{
 }
 
 #result{
-    background-image: url(../images/happy2.jpg);
+    background-image: url(./happy2.jpg);
     height: 650px;
     background-color: rgb(68, 68, 62);
     background-blend-mode:soft-light;
@@ -915,7 +915,7 @@ span{
 /* ここからportfolioページ*/
 
 #portfolio{
-    background-image: url(../images/portfolio2.jpg);
+    background-image: url(./portfolio2.jpg);
     height: 370px;
     background-color: dimgray;
     background-blend-mode: soft-light;
@@ -1061,7 +1061,7 @@ span{
 /*contactページ*/
 
 #contacts{
-    background-image: url(../images/contact2.jpg);
+    background-image: url(./contact2.jpg);
     height: 370px;
     background-color: rgb(109, 108, 108);
     background-blend-mode: soft-light;
