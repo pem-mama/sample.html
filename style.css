@@ -1137,7 +1137,7 @@ footer p{
 
 /*モバイル*/
 @media(max-width:600px){
-    .circle{
+    .circle-in{
         font-size: 12px;
     }
 
