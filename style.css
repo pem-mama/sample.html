@@ -1137,6 +1137,11 @@ footer p{
 
 /*モバイル*/
 @media(max-width:600px){
+
+   #news{
+      width:100%;
+   }
+   
     .circle-in{
         font-size: 12px;
     }
