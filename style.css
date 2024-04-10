@@ -1138,7 +1138,7 @@ footer p{
 /*モバイル*/
 @media(max-width:600px){
     .circle{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .middle{
@@ -1146,13 +1146,13 @@ footer p{
     }
 
     .check-list{
-        font-size: 15px;
+        font-size: 12px;
     }
     .checkbox-list{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .close-page{
-        font-size: 15px;
+        font-size: 12px;
     }
 }
