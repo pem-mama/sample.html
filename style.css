@@ -1135,3 +1135,24 @@ footer p{
     font-size: 0.875rem;
 }
 
+/*モバイル*/
+@media(max-width:600px){
+    .circle{
+        font-size: 15px;
+    }
+
+    .middle{
+        font-size:15px;
+    }
+
+    .check-list{
+        font-size: 15px;
+    }
+    .checkbox-list{
+        font-size: 15px;
+    }
+
+    .close-page{
+        font-size: 15px;
+    }
+}
