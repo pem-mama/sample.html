@@ -1145,8 +1145,8 @@ footer p{
    }
 
    .circle {
-    width:450px;
-    height:450px;
+    width:550px;
+    height:550px;
     border-radius: 50%;
     border: solid 1px #fff;
     position: relative;
@@ -1203,7 +1203,7 @@ footer p{
     /*background-image: url(../images/home2.jpg);*/
     background-size: cover;
     background-color:darkslategray;
-    height: 400px;
+    height: 350px;
     list-style-type: none;
 }
 
@@ -1227,7 +1227,7 @@ footer p{
     left: 0;
     border-width: 5rem;
     border: 2px solid #ccc;
-    margin:6.5% 5% 5% 30% ;
+    margin:6.5% 5% 5% 10% ;
 
 }
 
@@ -1242,7 +1242,7 @@ footer p{
     border-left: 2px solid red;
     border-bottom: 2px solid red;
     transform: rotate(-45deg);
-    margin:6.5% 5% 5% 30% ;
+    margin:6.5% 5% 5% 10% ;
 }
 
 #checkbox{
@@ -1265,7 +1265,7 @@ footer p{
     position: relative;
     font-size: 15px;
     color: #fff;
-    padding:2% 0 0 35%;
+    padding:2% 0 0 15%;
     box-sizing: border-box;
     letter-spacing: 4px;
     line-height: 2;
@@ -1284,7 +1284,7 @@ span{
     left: 0;
     border-width: 5rem;
     border: 2px solid #ccc;
-    margin:5% 5% 5% 30% ;
+    margin:5% 5% 5% 10% ;
 
 }
 
@@ -1299,18 +1299,18 @@ span{
     border-left: 2px solid red;
     border-bottom: 2px solid red;
     transform: rotate(-45deg);
-    margin:5% 5% 5% 30% ;
+    margin:5% 5% 5% 10% ;
 }
 
 .close{
     background-color: #fff;
-    height: 200px;
+    height: 120px;
     display: flex;
     align-items: center;
     justify-content: center;
     color:black;
     text-align: center;
-    padding: 25px 0;
+    padding: 10px 0;
     letter-spacing: 4px;
 
 }
@@ -1337,7 +1337,7 @@ span{
     font-weight: bold;
     color:black;
     text-align: center;
-    padding: 12px 0;
+    padding: 10px 0;
     letter-spacing: 4px;
 }
 
