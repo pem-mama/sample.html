@@ -1055,7 +1055,18 @@ span{
     display: block;   
 }
 
+.products{
+    position: absolute;
+    display:flex;
+    padding: 6% 7% 2% 6%;
 
+} 
+
+.products img{
+   width: 260px;
+   height: 140px;
+  
+}
 
 
 /*contactページ*/
